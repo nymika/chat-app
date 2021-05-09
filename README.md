@@ -38,4 +38,4 @@ Once the server is up and running, users will be able to interact with the appli
 
 ## Deployment
 
-This app has been deployed here: [http://nym-chat-app.herokuapp.com](http://nym-chat-app.herokuapp.com/)
+This app has been deployed here: [https://nym-chat-app.herokuapp.com](https://nym-chat-app.herokuapp.com/)
